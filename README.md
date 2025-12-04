@@ -10,7 +10,7 @@
 ###  Contribution Snake
 
 
-![Snake animation](https://raw.githubusercontent.com/qxm1998/qxm1998/output/github-contribution-grid-snake-white.svg)
+![Snake animation](https://raw.githubusercontent.com/qxm1998/qxm1998/output/github-contribution-grid-snake.svg)
 
 ---
 
