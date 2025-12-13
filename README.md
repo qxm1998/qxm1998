@@ -12,15 +12,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/qxm1998/qxm1998/output/github-contribution-grid-snake.svg)
 
----
-
-###  Featured Projects
-
-- **前端简历（原生版）**：`week-01-Resume`
-- **前端简历（React 版）**：`week-01-Resume-react`
-- **电商项目（React + Vite）**：`week-02-Ecommerce`
-
----
 
 <div align="center">
   
